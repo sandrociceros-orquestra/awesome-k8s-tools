@@ -1,3 +1,20 @@
 # Awesome Open Source K8s And Container Tools
 
-#### *Every night at 1:00 AM GMT, the repositories in the index are scanned and organized based on the number of stars they've received from users. If you know a repository that should be included, please add it to the [index](data/repos) and submit a pull request.*
+> A curated list of 500+ awesome open source Kubernetes and container tools, automatically updated daily.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/vilaca/awesome-k8s-tools?label=last%20updated)](https://github.com/vilaca/awesome-k8s-tools/commits/main)
+
+## About
+
+This list tracks the most popular open source tools in the Kubernetes and container ecosystem. Tools are automatically ranked by GitHub stars and updated **every night at midnight UTC**.
+
+### Legend
+
+- ⭐️ **Stars** - GitHub stars (popularity indicator)
+- 🚀 **Forks** - Number of forks (community engagement)
+- 💥 **Issues** - Open issues count (activity and maintenance)
+- 🪪 **License** - Software license
+
+## The List
+
