@@ -12,6 +12,7 @@ https://github.com/alcideio/advisor
 https://github.com/alcideio/rbac-tool
 https://github.com/alcideio/skan
 https://github.com/alexellis/k3sup
+https://github.com/AlexsJones/sympozium
 https://github.com/alibaba/nacos
 https://github.com/alikhil/kubectl-find
 https://github.com/andreazorzetto/yh
@@ -135,6 +136,7 @@ https://github.com/eldadru/ksniff
 https://github.com/elotl/kip
 https://github.com/enix/x509-certificate-exporter/
 https://github.com/envoyproxy/envoy
+https://github.com/erikmagkekse/btrfs-nfs-csi
 https://github.com/etcd-io/etcd
 https://github.com/external-secrets/external-secrets
 https://github.com/fabiand/kubectl-plugin-pvc
@@ -213,6 +215,7 @@ https://github.com/JamesTGrant/kubectl-debug
 https://github.com/jangraefen/hcloud-pricing-exporter
 https://github.com/jenkins-x/jx
 https://github.com/jesseduffield/lazydocker
+https://github.com/jessegoodier/kpf
 https://github.com/jimmidyson/configmap-reload
 https://github.com/jlesquembre/kubeprompt
 https://github.com/johanhaleby/kubetail
@@ -324,7 +327,9 @@ https://github.com/kyverno/kyverno
 https://github.com/Ladicle/kubectl-rolesum
 https://github.com/LeanerCloud/AutoSpotting
 https://github.com/learnk8s/xlskubectl
+https://github.com/lenaxia/k8s-mendabot
 https://github.com/lensapp/lens # 💀 Closed source (use freelensapp/freelens)
+https://github.com/LINBIT/drbd
 https://github.com/linkerd/linkerd2
 https://github.com/linki/chaoskube
 https://github.com/linode/apl-core/
@@ -394,6 +399,7 @@ https://github.com/otterize/intents-operator
 https://github.com/otterize/network-mapper
 https://github.com/patrickdappollonio/kubectl-slice
 https://github.com/philippemerle/KubeDiagrams
+https://github.com/piraeusdatastore/piraeus
 https://github.com/pixie-io/pixie
 https://github.com/PlayFab/thundernetes
 https://github.com/polverio/kubelift-cli
@@ -431,6 +437,7 @@ https://github.com/robusta-dev/chatgpt-yaml-generator/
 https://github.com/robusta-dev/kubewatch
 https://github.com/robusta-dev/robusta
 https://github.com/robusta-dev/robusta-chaos
+https://github.com/rohitg00/kubectl-mcp-server
 https://github.com/rook/rook
 https://github.com/rottencandy/vimkubectl
 https://github.com/rtvkiz/minimal
@@ -443,6 +450,7 @@ https://github.com/score-spec/spec
 https://github.com/sealerio/sealer
 https://github.com/searchlight/searchlight # 💀 Inactive
 https://github.com/sharadregoti/devops-cli
+https://github.com/sherifabdlnaby/kube-binpacking-exporter
 https://github.com/shini4i/kd
 https://github.com/Shopify/kubeaudit # 💀 Archived
 https://github.com/siderolabs/sidero
@@ -484,6 +492,7 @@ https://github.com/tinkerbell/tink
 https://github.com/toboshii/hajimari
 https://github.com/traefik/mesh
 https://github.com/traefik/traefik
+https://github.com/traiproject/yaml-schema-router
 https://github.com/Trendyol/kink
 https://github.com/Trolley-MGMT/trolleymgmt
 https://github.com/trufflesecurity/trufflehog
@@ -522,12 +531,3 @@ https://github.com/YelpArchive/clusterman # 💀 Officially archived
 https://github.com/yuyicai/kubei
 https://github.com/zabbix/zabbix
 https://github.com/zegl/kube-score
-https://github.com/jessegoodier/kpf
-https://github.com/rohitg00/kubectl-mcp-server
-https://github.com/sherifabdlnaby/kube-binpacking-exporter
-https://github.com/piraeusdatastore/piraeus
-https://github.com/LINBIT/drbd
-https://github.com/erikmagkekse/btrfs-nfs-csi
-https://github.com/AlexsJones/sympozium
-https://github.com/lenaxia/k8s-mendabot
-https://github.com/traiproject/yaml-schema-router
